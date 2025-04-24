@@ -10,27 +10,27 @@ const Home = () => {
 	const cards = [
 		{
 			src: "https://i.pinimg.com/736x/4f/d6/74/4fd674794e8a70cbb7bd700bfece9e52.jpg",
-			title: "De vito too high",
+			title: "De Vito too high",
 			description: "So much wow for this De Vito goin' on",
 			button: "become De Vito"
 		},
 		{
-			src: "https://i.pinimg.com/736x/47/59/92/4759920758abd58cff373bdcf19818d5.jpg",
-			title: "De vito too high",
-			description: "So much wow for this De Vito goin' on",
-			button: "become De Vito"
+			src: "https://i.pinimg.com/736x/7a/83/8b/7a838bd6680e3f865edb3dbee55d7ebd.jpg",
+			title: "Dj Chandalf",
+			description: "Sick mix for rotten ears",
+			button: "become Chandalf"
 		},
 		{
 			src: "https://i.pinimg.com/736x/b7/cf/ee/b7cfeeb1feabe37992b36f8ae60a03b0.jpg",
-			title: "De vito too high",
-			description: "So much wow for this De Vito goin' on",
-			button: "become De Vito"
+			title: "Foreast mall",
+			description: "Gollums are 50% off",
+			button: "Buy more Gollums"
 		},
 		{
-			src: "https://i.pinimg.com/736x/16/36/18/16361845f7e361d3902a3bd746b3e432.jpg",
-			title: "De vito too high",
-			description: "So much wow for this De Vito goin' on",
-			button: "become De Vito"
+			src: "https://i.pinimg.com/736x/ae/fc/cd/aefccd7cb003b680be1cce09c23dc188.jpg",
+			title: "Space Chandalf",
+			description: "Chandalf spacier than ever",
+			button: "Go to space"
 		}
 	]
 	return (
